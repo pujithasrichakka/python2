@@ -13,16 +13,16 @@ print('Phno:',Phno)
 print('Age:',Age)
 
 OUTPUT:
-enter student no:8
-enter student name:pujitha
+enter student no:1
+enter student name:pavani
 enter student gender:female
-enter student group:ds
+enter student group:bca
 enter student address:elr
-enter student phno:1234567891
+enter student phno:1234567895
 enter student age:19
-No: 8
-Name: pujitha
+No: 1
+Name: pavani
 Gender female
 Address: elr
-Phno: 1234567891
+Phno: 1234567895
 Age: 19
