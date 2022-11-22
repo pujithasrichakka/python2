@@ -1,0 +1,28 @@
+No=int(input("enter student no:"))
+Name=input("enter student name:")
+Gender=input("enter student gender:")
+Group=input("enter student group:")
+Address=input("enter student address:")
+Phno=input("enter student phno:")
+Age=input("enter student age:")
+print('No:',No)
+print('Name:',Name)
+print('Gender',Gender)
+print('Address:',Address)
+print('Phno:',Phno)
+print('Age:',Age)
+
+OUTPUT:
+enter student no:8
+enter student name:pujitha
+enter student gender:female
+enter student group:ds
+enter student address:elr
+enter student phno:1234567891
+enter student age:19
+No: 8
+Name: pujitha
+Gender female
+Address: elr
+Phno: 1234567891
+Age: 19
